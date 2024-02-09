@@ -9,7 +9,7 @@ These information was used to answer the following questions;
 2.	What is the estimate ratio of male vs female health workers experiencing depression?
 3.	Which of the three social determinants of mental health—economic stability, social community context, and negative life events—was reported to be most responsible for depressing both medical doctors and nurses in Abuja?
 4.	What social determinant was most responsible amongst males and females?
-For Q1 & 3, also make comparison for each of these groups.
+5.  For Q1 & 3, also make comparison for each of these groups;
 * Amongst age groups; 25-35, 36-50, 51-65. 
 *	Marital status: never married, divorced/separated/widowed, Married
 
